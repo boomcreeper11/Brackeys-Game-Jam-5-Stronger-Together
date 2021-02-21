@@ -1,2 +1,2 @@
-# Brackeys-Game-Jam-5-Stronger-Together
- Source Code Linked from itch.io
+# About
+ This game was made in a week for the brackeys game jam.
